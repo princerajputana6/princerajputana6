@@ -8,7 +8,7 @@ I'm a software engineer like to work remotly, (Internationally) 🌆
 😄 Pronouns: he/him/his
 
 
-Open Source Projects
+My Projects
 
 1. Client.Softinn.in
 2. Softinn.in
